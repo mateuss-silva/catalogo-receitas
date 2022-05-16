@@ -1,16 +1,27 @@
-# gerenciamento_mobx
+# API / Firebase
+ 
+- Base de Dados: Firebase Realtime DB
+- Base de Arquivos: Cloud Storage para Firebase
 
-A new Flutter project.
+# Aplicação Flutter
 
-## Getting Started
+- Listar produtos
+- Editar produto
+- Remover produto 
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/home.jpg?raw=true)
+![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/details.jpg?raw=true)
+![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/edit.jpg?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+# Descrição de implementação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Injeção de Dependência: Modular
+- Gerenciamento de Rotas: Modular
+- Gerenciamento de Estados: Mobx
+- Cache de Imagem: Package cached_network_image
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Testes Unitários
+ 
+- Remover produto
+- Listar produto

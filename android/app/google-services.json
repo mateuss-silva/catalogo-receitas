@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207298055835",
+    "project_id": "food-challenge-20210610",
+    "storage_bucket": "food-challenge-20210610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207298055835:android:c5f2bc4d3106682825c03e",
+        "android_client_info": {
+          "package_name": "com.example.food_challenge_20210610"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207298055835-7kmqhj07liidaj6a15d0bn5obmgn6q04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98q7Gi0lyoJM5YDlJO33b5P4svFzCF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207298055835-7kmqhj07liidaj6a15d0bn5obmgn6q04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
