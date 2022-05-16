@@ -1,25 +1,24 @@
-# API / Firebase
- 
-- Base de Dados: Firebase Realtime DB
-- Base de Arquivos: Cloud Storage para Firebase
-
 # Aplicação Flutter
 
 - Listar produtos
 - Editar produto
 - Remover produto 
 
-![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/home.jpg?raw=true)
-![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/details.jpg?raw=true)
-![alt text](https://github.com/mateuss-gt/gerenciamento-mobx/assets/images/edit.jpg?raw=true)
+<img src="https://github.com/mateuss-silva/gerenciamento-mobx/blob/main/assets/images/home.png" width="256" height="544"> | 
+<img src="https://github.com/mateuss-silva/gerenciamento-mobx/blob/main/assets/images/details.png" width="256" height="544"> |
+<img src="https://github.com/mateuss-silva/gerenciamento-mobx/blob/main/assets/images/edit.png" width="256" height="544">
 
 # Descrição de implementação
-
+## API / Firebase
+ 
+- Base de Dados: Firebase Realtime Database
+- Base de Arquivos: Firebase Cloud Storage
 - Injeção de Dependência: Modular
 - Gerenciamento de Rotas: Modular
 - Gerenciamento de Estados: Mobx
 - Cache de Imagem: Package cached_network_image
-
+- SOLID
+- MVC
 
 # Testes Unitários
  
